@@ -10,15 +10,15 @@ check for highest single
 range(1-13)
 
 single
-lowest 3 value = 2, 3, 4 = 9
+lowest 3 value = 2, 3, 4 = 7
 highest 3 value = Q, K, A = 33
 
 pair
-lowest pair = 2,2,3 = 6
+lowest pair = 2,2,3 = 3
 highest pair = A,A,K = 35
 
 Triple
-lowest triple = 2,2,2 = 6
+lowest triple = 2,2,2 = 0
 highest triple = A,A,A = 36
 
 5 middle
